@@ -32,11 +32,11 @@ Basic image processing techniques were implemented using OpenCV, including:
 
 | Original | Grayscale |
 |----------|----------|
-| ![](images/ss_opencv_original.png) | ![](images/ss_grayscale.png) |
+| ![](images/Original.png) | ![](images/Grayscale.png) |
 
 | Histogram | Threshold |
 |----------|----------|
-| ![](images/ss_histogram.png) | ![](images/ss_threshold.png) |
+| ![](images/Histogram.png) | ![](images/Threshold.png) |
 
 ---
 
@@ -58,8 +58,8 @@ Three models were implemented:
 
 ### 📷 Visualization
 
-![](images/ss_accuracy.png)  
-![](images/ss_loss.png)
+![](images/accuracy.png)  
+![](images/loss.png)
 
 ---
 
@@ -69,7 +69,7 @@ Unsupervised learning was applied using K-Means to group digit images.
 
 ### 📷 Clustering Result
 
-![](images/ss_kmeans_result.png)
+![](images/kmeans_result.png)
 
 ---
 
