@@ -26,17 +26,16 @@ Basic image processing techniques were implemented using OpenCV, including:
 - Grayscale conversion
 - Histogram analysis
 - Thresholding
-- Image transformation (flip, rotate, crop)
 
 ### 📷 Results
 
 | Original | Grayscale |
-|----------|----------|
-| ![](images/Original.png) | ![](images/Grayscale.png) |
+|----------|-----------|
+| ![](opencv/Original.png) | ![](opencv/Grayscale.png) |
 
 | Histogram | Threshold |
-|----------|----------|
-| ![](images/Histogram.png) | ![](images/Threshold.png) |
+|----------|-----------|
+| ![](opencv/Histogram.png) | ![](opencv/Thresold.png) |
 
 ---
 
